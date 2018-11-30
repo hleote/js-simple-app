@@ -1,3 +1,10 @@
-.app {
-  font-weight: bold;
+.transactions {
+  float: left;
+  border: 2px solid blue;
+  margin: 0px 30px 30px 30px;
+
+}
+
+.filters {
+  float: right;
 }

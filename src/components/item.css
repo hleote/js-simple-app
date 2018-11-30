@@ -1,0 +1,21 @@
+
+.column {
+    padding: 8px;
+    border-bottom: 2px solid blue;
+} 
+
+.field {
+    margin: 5px;
+    width: 80px; 
+    display: inline-block;
+    text-align: center;
+}
+
+.field.date {
+    width: 180px;
+}
+
+.field.status {
+    border: 2px solid blue;
+    border-radius: 5px;
+}
